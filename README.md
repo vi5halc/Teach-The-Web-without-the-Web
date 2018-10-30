@@ -2,6 +2,8 @@
 
 The internet has become a crucial part of everyday life, but millions of people still lack the skills and resources to access it. This project is an effort to introduce solutions for communities with low/no connectivity to learn basic web skills. 
 
+This session will demonstrate how communities with little or no internet connectivity can improve their web literacy skills and how they can take what they learn forward and spread web literacy in other regions as well, with the help of some simple resources and offline activities.
+
 
 ## Getting Started
 
