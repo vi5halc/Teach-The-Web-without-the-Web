@@ -1,6 +1,6 @@
 # Below are some offline activities which we can refer to
 
-## Web Literacy Basics | Ping Kong
+## 1. Web Literacy Basics | Ping Kong
 
 For many, "the Internet" is an abstract and overwhelming concept. This activity challenges learners to think concretely about how the internet communicates with a computer. 
 
@@ -18,7 +18,7 @@ For many, "the Internet" is an abstract and overwhelming concept. This activity 
 [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) by [Mozilla](https://learning.mozilla.org/) and [MOUSE](https://mouse.org/) 
 
 
-## Web Mechanics Speed Dating 
+## 2. Web Mechanics Speed Dating 
 
 Web Mechanics are a combination of tools, characteristics and functions that determine how we use the internet. Understanding web mechanics helps us protect personal information online, use and understand URLs, IP addresses, search terms, bookmarks and more. This activity will introduce the basics of web mechanics through an offline, multi-person activity. This activity can be adapted for all ages.  
 
@@ -34,7 +34,7 @@ Web Mechanics are a combination of tools, characteristics and functions that det
 [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) by [Mozilla](https://learning.mozilla.org/) 
 
 
-## A Strong Wind Blows for Web Literacy  
+## 3. A Strong Wind Blows for Web Literacy  
 
 This activity is a hack of the game musical chairs. Thematic statements are introduced and learners for whom the statement is true must find a new seat.   
 
@@ -49,7 +49,7 @@ This activity is a hack of the game musical chairs. Thematic statements are intr
 [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) by [Mozilla](https://learning.mozilla.org/) 
 
 
-## Web Literacy Bingo   
+## 4. Web Literacy Bingo   
 
 This activity can be used in offline settings, or between screen-based activities. Web literacy bingo allows you to explore a web literacy competency of your choice with a group of learners.    
 
