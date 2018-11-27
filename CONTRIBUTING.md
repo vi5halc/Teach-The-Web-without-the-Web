@@ -6,6 +6,7 @@ If you are on this page, we can conclude that - 1. You are interested in being a
 
 * [What should I know before I get started?](#what-should-i-know-before-i-get-started)
 * [How can I contribute?](#how-can-i-contribute)
+* [Roadmap](#roadmap)
 * [Code of Conduct](#code-of-conduct)
 
 
