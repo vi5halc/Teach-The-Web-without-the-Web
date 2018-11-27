@@ -1,3 +1,7 @@
+<p align="center">
+  <img src ="https://github.com/vi5halc/Teach-The-Web-without-the-Web/blob/master/images/EiEBridges_4.jpg" />
+</p>
+
 ## How can you help ?
 
 If you are on this page, we can conclude that - 1. You are interested in being a part of this movement and want to help shape the web for people around the world without the barrier of connectivity, and 2. You are not a robot.
