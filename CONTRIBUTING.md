@@ -1,6 +1,6 @@
-## Contributing to Teach The Web, without the Web
+## How can you help ?
 
-Welcome! Thanks for visiting this project! This guide contains some information on how you can get involved in this project and how we can form a community.
+If you are on this page, we can conclude that - 1. You are interested in being a part of this movement and want to help shape the web for people around the world without the barrier of connectivity, and 2. You are not a robot.
 
 ### Table of Contents
 
@@ -13,9 +13,17 @@ Welcome! Thanks for visiting this project! This guide contains some information 
 
 If this is your first time visiting the project, check out the [ReadMe](README.md) for information about what we're doing and why.
 
+This project basically deals with teaching people about the fundamentals of the Internet. So a decent knowledge about that will be appreciated. Anyone with that can be a part of this project, no matter the geographical location, educational background, gender or age. 
+
 ### How can I contribute?
 
-We need many different skills and areas of expertise to build this project, and you can help! See how you can start contributing [here](README.md#getting-started). We are focusing on building tools, resources and activities through which we can help educate people about Web Literacy offline. We are also focused on building a community of people dedicated to this cause.
+* **Check out existing material** - For starters, check out the existing resources on this repo [here](https://github.com/vi5halc/Teach-The-Web-without-the-Web/blob/master/SAMPLE-ACTIVITIES.md)
+
+* **Use sample activities you find on the web** - The Internet is riddled with many unique ideas and sample activities which we can use in our method of offline teaching. If those ideas are Open and reusable, you can add those to this project with proper attribution to the original creators.
+
+* **Create your own resources** - Creativity has no limits. We all are creative in our own ways. You can also come up with your own activities, games etc which satisfies our primary goal. And the best thing is, these activities will be shared globally with your name attributed. [You can submit your ideas here](https://docs.google.com/forms/d/e/1FAIpQLSdK2ZM_Y2pGxI0eLO30DH9utPWlOjWN-ZJWIMNvlBKvUU60NA/viewform)
+
+* **Review the submitted activities** - Keeping in mind the scalability of this project, it will also need some expert reviewers to keep a track of incoming suggestions and ideas, as we go along the way.
 
 ### Roadmap
 
